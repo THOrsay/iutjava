@@ -1,3 +1,4 @@
-activeuserprofiles=PCI118-04;Team
+activeuserprofiles=PCI128-01;Team
 eclipse.preferences.version=1
-org.eclipse.rse.systemtype.local.systemType.defaultUserId=thomas.huppe
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=paul.arcas
+useridperkey=PCI128-01.Local\=paul.arcas;
